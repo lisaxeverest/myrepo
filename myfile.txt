@@ -1,3 +1,4 @@
 Hi, this is some text
 This is a second line
 Manual difference
+This is a different third line
